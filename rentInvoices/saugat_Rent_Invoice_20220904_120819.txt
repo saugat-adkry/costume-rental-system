@@ -1,0 +1,18 @@
+ 
+----------------------------->Your bill for Cop Costume Set<-----------------------------
+
+
+invoice id : mheki
+issue date : 2022-09-04
+
+        Costumer's Name             : saugat 
+        Phone number                : 1232
+        Costume                     : Cop Costume Set
+        Brand                       : Cartmax
+        Total no. of costume rented : 20
+        Total price                 : $150.0
+
+        Note : You will be charged with extra service charge of 10% per day after 5th day.
+
+------------------------------------>Thank you for choosing us<-----------------------------------
+                                        

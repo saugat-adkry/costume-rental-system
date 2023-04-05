@@ -1,0 +1,20 @@
+ 
+----------------------------->Your bill for Formal Suite (Black Premium)<-----------------------------
+
+    invoice id : cjsp9
+    issue date : 2022-09-04
+
+            Costumer's Name             : saugat 
+            Costume                     : Formal Suite (Black Premium)
+            Brand                       : Megaplex
+            Date Of Rent                : 2020-12-12
+            Date Of Return              : 2022-09-04
+            Total renting Days          : 631 days
+            Total no. of costume rented : 10
+            Total price                 : $100644.5
+
+            Note : You have been charged with extra service charge of 10% per day for
+                    626 days for delayed return .
+
+------------------------------------>Thank you for choosing us<-----------------------------------
+                                                        
